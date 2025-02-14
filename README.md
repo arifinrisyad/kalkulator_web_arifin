@@ -19,7 +19,7 @@ Anda seorang asisten junior programmer diminta untuk membuat aplikasi kalkulator
 8.  Implementasikan Logika Program a. Tulis kode untuk menangani input pengguna dan memilih operasi berdasarkan tombol yang ditekan. b. Gunakan kondisi if-else atau switch-case untuk 
     menentukan operasi matematika yang diinginkan dan lakukan perhitungan. c. Pastikan untuk menangani pembagian dengan nol dengan memberi peringatan atau pesan kesalahan.
 9.  Validasi Input Pengguna a. Periksa apakah input yang diberikan oleh pengguna adalah angka yang valid. b. Tangani kasus ketika pengguna memasukkan nilai yang tidak valid atau kosong.
-    Tampilkan Hasil a. Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox. b. Berikan pesan kesalahan yang jelas jika 10. terjadi pembagian dengan nol atau kesalahan lainnya.
+10. Tampilkan Hasil a. Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox. b. Berikan pesan kesalahan yang jelas jika 10. terjadi pembagian dengan nol atau kesalahan lainnya.
 <br><h2>Berikut Gambaran Kalkulatornya:</h2><br>
 ![ss web](https://github.com/user-attachments/assets/71a455b4-7dbf-405f-bc0e-24420a09288c)
 <br><h3>Foto Pembuat:</h3>
